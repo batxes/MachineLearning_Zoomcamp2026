@@ -1,0 +1,8 @@
+{
+  "Q1 (setup note)": "uv 0.13.5 (x86_64-unknown-linux-gnu)",
+  "Q2": "1.7.2",
+  "Q3": "0.533",
+  "Q4": "0.770",
+  "Q5": "python:3.11.15-slim-bookworm",
+  "Q6": "0.770"
+}
